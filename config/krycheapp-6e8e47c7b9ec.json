@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "krycheapp",
+  "private_key_id": "6e8e47c7b9ecc13aa9dae5d1350af67c90def291",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvKKmk6RX9/zwa\nzec6HiApjgKz48iYm2T6SeR2ybjgpvKDUxCsVahjGZg0Hq5DpwK6fTtoI2E6Sl9J\nexHArnJu3ul74kwQKMB3+3ufY9T+5TW4tU2YsIgl7FNrt5dibeUhdgqlMj5+vrtP\nI0NyeS1EpVBHVCT6i0k/jR5wjhoG7sVfXDAxwlVYfd3RFONZZZ1nO78M87rOv+Q6\nTLuMhQHAIbIiUfxi0VKuPQedCflJQ1hVLW2+20ubbKBsBckuTHpHglzsCd5Rz75U\ndE2AARgkB/h489jHCMwqAnN93S9/MVme/barbVnr8WmZ5lANA7Dl/iP+GZ4VPY2q\nFamrCn+7AgMBAAECggEACBed8l0ooA89joWv2/u8Uf1hYiP/P2TJKbm7VJfT5MQ8\nbc4c2YeeO7egG2obAoSwF84BypzERyuVVoMSLAFjOWASnkpd9iPS9BuqBckfnrKm\nAPOy7A3dnGSxlQ5qjETvCw3SKk5R8bbhOrIWJvYyrBbGOnq6Ri8yhZKrsucTGogl\nz0HLkhnxmiMsonHQmaQ1nF97Sum+BdiHq4PnIlcgipbiTDAZ15d8B74eXAcOWgd0\n8k7EC9wNW7jL518cZdKKZFB0XRh+Sf4wKn7tURufNifOXMtpZtl6pMzOI8ObxSzU\n5uRxyFaCgGFwaPxGa97JoYt5K6o/9BQbzYhl11OmQQKBgQDqChpbpNxgJJQF6PQx\nLB/zYbT8PjeuP7F6avWud2/uhE0MZNAMVBSGBTMNUqU83KUznyRb3Cek78hUTXjp\nHaSTQsJ67Gb6oPwhfGvkB3rlCiYZAeXE2owfaBdmdFs2B0gKBUzhj80BTvav0qxC\ndmX8uDS3uAHc2nd3nI2DEhLbSwKBgQC/mC3rSzcmvhQSd3fwW6ZqXyH3rxmwfXEd\ngQasWtexLdzW7uOQEmIUoZExhJN4QpC9UP5nxgV8o8svQ5dvdXkxk347rctM2WOn\niInFcKDtmcShisiiyr4fRYZ4GuPZH2bj2ZwbhO7GjCZEoWv4HniQBP8ZVj50bhTN\nogEXkiI3UQKBgQCc1fRf4ZTE4P5JD5lEsnse0CVGvDL4FDrM/IxzRBrATeyMF6rL\n+DRgs29IyE9u/7W9aDInVNtETmODCv+xyGmXPa+yTGWeIu+TSRvMDa8veaOaMolV\nZ9dq3IiB4guVoz+FZ5PjvEf3ToFFxfol983Uk2TQkQC+jbBteX3jjeMRDQKBgGoW\n2O5d4rcIL1MeZgJorVhfPw7IHWB1xWnB5TEQyDhqnctB0i4Xj8m+wQf7UjEYIs9B\nhu1tX+JpS/vq4HKuSKJj+lUPYfA2u5Cr8SWrvOBz8cZFc914iBgGxnPA6AN0+OMX\nvvIaBKFaP2JnQ8LLFJUivyKHd+O+hLRsjVBA8cNRAoGAWAwqXWE7pPK7sngGQ2WQ\ns5cbaeyepodY/2OWt8scbWhPRwkLkAak1sHXsIs5DjNdNtzz1QY45+Edttm5fUzi\nfRR6GDLFw67qa2GUMh+p8ThtYKSVbo2S3PDd7Bmdbs6xcb0chnoSvO3HioOp9t2O\n/RcBLe4AxeUy1/TMQg7sOmU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-eb4pw@krycheapp.iam.gserviceaccount.com",
+  "client_id": "117498329270657492895",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-eb4pw%40krycheapp.iam.gserviceaccount.com"
+}
